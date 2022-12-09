@@ -1,0 +1,6 @@
+﻿  task2.2.cpp
+C:\Users\Bobne\source\task2.2\task2.2\task2.2.cpp(13,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bobne\source\task2.2\task2.2\task2.2.cpp(65,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bobne\source\task2.2\task2.2\task2.2.cpp(68,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bobne\source\task2.2\task2.2\task2.2.cpp(85,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  task2.2.vcxproj -> C:\Users\Bobne\source\task2.2\x64\Debug\task2.2.exe
